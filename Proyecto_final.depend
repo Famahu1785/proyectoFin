@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1748559898 source:e:\users\cris4\escritorio\poo\proyecto_final\src\concentrese.cpp
+	"Concentrese.h"
+	<iostream>
+
+1748559709 e:\users\cris4\escritorio\poo\proyecto_final\include\concentrese.h
+	"Juego.h"
+
+1748559578 source:e:\users\cris4\escritorio\poo\proyecto_final\main.cpp
+	<iostream>
+	"Ahorcado.h"
+	"Concentrese.h"
+
+1748545928 e:\users\cris4\escritorio\poo\proyecto_final\include\ahorcado.h
+	"Juego.h"
+	<string>
+	<vector>
+
+1748545832 e:\users\cris4\escritorio\poo\proyecto_final\include\juego.h
+
+1748546432 source:e:\users\cris4\escritorio\poo\proyecto_final\src\ahorcado.cpp
+	"Ahorcado.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
